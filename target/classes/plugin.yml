@@ -1,0 +1,13 @@
+name: MLHarvester
+version: '1.0'
+main: eu.minelife.mLHarvester.MLHarvester
+api-version: '1.21'
+description: A plugin that provides a special netherite hoe that automatically replants crops
+author: MineLife
+
+commands:
+  giveharvester:
+    description: Gives a special netherite hoe that automatically replants crops
+    usage: /giveharvester <player>
+    permission: mlharvester.give
+    permission-message: You don't have permission to use this command

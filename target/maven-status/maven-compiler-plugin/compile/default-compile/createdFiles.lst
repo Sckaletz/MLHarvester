@@ -1,0 +1,4 @@
+eu\minelife\mLHarvester\MLHarvester.class
+eu\minelife\mLHarvester\utils\HarvesterHoe.class
+eu\minelife\mLHarvester\listeners\HarvesterListener.class
+eu\minelife\mLHarvester\commands\GiveHarvesterCommand.class
