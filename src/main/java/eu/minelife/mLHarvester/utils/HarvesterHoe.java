@@ -39,6 +39,7 @@ public class HarvesterHoe {
         // Add enchantment glow
         meta.addEnchant(Enchantment.UNBREAKING, 3, true);
         meta.addEnchant(Enchantment.EFFICIENCY, 5, true);
+        meta.addEnchant(Enchantment.FORTUNE, 3, true);
         meta.addItemFlags(ItemFlag.HIDE_ENCHANTS);
 
         // Set unbreakable
